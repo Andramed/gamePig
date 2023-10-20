@@ -11,7 +11,6 @@ reach this score is the winner.
     <li>A game screen displaying the current scores of both players.</li>
     <li>A button for rolling the die.</li>
     <li>A button for stopping and ending the current player's turn.</li>
-
     <li>Displaying the current player's turn.</li>
 </ul>
 
